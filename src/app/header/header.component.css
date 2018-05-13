@@ -6,10 +6,10 @@
     top:0;
 }
 .bg-struct.bg-img {
-    background: url(../../img/pencil-1486278.jpg);
+    background: url(../../img/bg.jpg);
     background-position: center;
     background-size: cover;
-}
+} 
 .mdl-layout__header {
     width: 940px;
     margin: 0 auto;
@@ -44,5 +44,9 @@
 .title{
     padding-top: 20px;
 }
-
+.android-drawer-separator {
+    height: 1px;
+    background-color: #dcdcdc;
+    margin: 8px 0;
+}
 
