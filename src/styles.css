@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.mdl-layout__header .mdl-layout__drawer-button{
+    color:#444;
+}
+/* .mdl-layout__drawer {
+	display:block;
+	color: inherit;
+	background: #2b2b2b none repeat scroll 0 0;
+    border-right: medium none;
+} */
+.drawer-profile-wrap {
+    overflow:hidden;
+    background:#272727;
+}
+.mdl-layout__obfuscator.is-visible {
+    opacity: 0;
+}
+
+	

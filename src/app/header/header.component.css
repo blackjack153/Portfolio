@@ -1,0 +1,48 @@
+.bg-struct {
+	position:absolute;
+	height:480px;
+	width:100%;
+	left:0;
+    top:0;
+}
+.bg-struct.bg-img {
+    background: url(../../img/pencil-1486278.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.mdl-layout__header {
+    width: 940px;
+    margin: 0 auto;
+	right: 0; 
+	position:fixed; 
+	left: 0;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.03), 0 3px 1px -2px rgba(0,0,0,.03), 0 1px 5px 0 rgba(0,0,0,.03);
+    background:white;
+}
+.mdl-layout__header .mdl-layout-title {
+    text-transform:capitalize;
+	color:#444;
+	font-weight:700;
+}
+.mdl-navigation__link {
+    color: #444;
+}
+.mdl-button--icon {
+    height: 32px;
+    min-width: 32px;
+    padding: 0;
+    width: 32px;
+}	
+.drawer-profile-wrap{
+    padding-top: 30px;
+}
+.avatar{
+    border-radius: 100%;
+    height: 135px;
+    width: 135px;
+}
+.title{
+    padding-top: 20px;
+}
+
+
