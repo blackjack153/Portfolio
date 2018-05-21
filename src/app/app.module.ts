@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
 import { HeaderComponent } from './header/header.component';
+import { SkillsecComponent } from './skillsec/skillsec.component';
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
-    HeaderComponent
+    HeaderComponent,
+    SkillsecComponent
   ],
   imports: [
     BrowserModule,

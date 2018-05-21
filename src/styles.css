@@ -29,3 +29,6 @@
 .mdl-layout__drawer.is-visible{
     position: fixed;
 }
+.mdl-button--icon{
+    color: black
+}
